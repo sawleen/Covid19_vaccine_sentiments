@@ -3,7 +3,7 @@
 <hr>
 <head>
 <h3> Description </h3>
-With different vaccines rolling out in 2021, public sentiment and confidence towards various vaccines varies.  To understand public receptiveness to different types of vaccines, this project aims to analyze if there is any particular preference towards Pfizer, Moderna or Sinovac.
+With different vaccines rolling out in 2021, public sentiment and confidence towards various vaccines varies.  To understand public receptiveness to different types of vaccines, this project was done in March 2021 to analyze if there is any particular preference towards Pfizer, Moderna or Sinovac.
   </head>
 <hr>  
 <body>
