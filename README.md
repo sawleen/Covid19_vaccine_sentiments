@@ -2,12 +2,12 @@
 
 <hr>
 <head>
-<h5> With different vaccines rolling out in 2021, public sentiment and confidence towards various vaccines varies.  To understand public receptiveness to different types of vaccines, this project aims to analyze if there is any particular preference towards Pfizer, Moderna or Sinovac.
-  </h6>
+<h3> Description </h3>
+With different vaccines rolling out in 2021, public sentiment and confidence towards various vaccines varies.  To understand public receptiveness to different types of vaccines, this project aims to analyze if there is any particular preference towards Pfizer, Moderna or Sinovac.
   </head>
 <hr>  
 <body>
- <h4> Methodology </h4>
+<h3> Methodology </h3>
   
 1) Mine tweets using Twitter API for different Covid-19 vaccines (Python)
 - Data is saved into a CSV file to be read in steps 2 and 3
@@ -26,7 +26,7 @@ Codes are in uploaded_codes.
 
 
 <hr>
-<h4> Results </h4>
+<h3> Results </h3>
 
 The results show that tweeters are:
 - Generally receptive towards Covid-19 vaccines (majority ~85%)
