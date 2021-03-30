@@ -33,3 +33,4 @@ The results show that tweeters are:
  - Agnostic in terms of preference towards Pfizer or Moderna, although many experienced soreness upon vaccination
 - Have less trust and more negative sentiment towards Sinovac vaccines compared to Pfizer/ Moderna
 
+For detailed charts, refer to "Results" PDF.
